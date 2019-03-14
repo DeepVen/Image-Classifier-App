@@ -33,6 +33,7 @@ predict.py defines arguments for inference and also contains data preprocessing 
 <a id='Execution'></a>
 ## 3. Execution instructions:
 (as provided by Udacity)
+
 Train a new network on a data set with train.py
 
 Basic usage: python train.py data_directory
